@@ -225,6 +225,7 @@ p {
 .msg-text {
   white-space: pre-wrap;
   word-wrap: break-word;
+  text-align: left;
 }
 
 .login-with-google-btn {
